@@ -1,14 +1,23 @@
 {
   "hero": {
-    "eyebrow": "مباشر • أهم البطولات",
+    "eyebrow": "ياسين العزاوي",
     "title": "عش كل لحظة من المباراة",
     "subtitle": "بث مباشر، مباريات اليوم، البطولات والجداول في واجهة عربية واحدة.",
     "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=1400&q=80"
   },
   "featuredMatchId": "match-001",
   "highlights": [
-    { "title": "مباشر الآن", "value": "2" },
-    { "title": "مباريات اليوم", "value": "8" },
-    { "title": "بطولات", "value": "4" }
+    {
+      "title": "مباشر الآن",
+      "value": "2"
+    },
+    {
+      "title": "مباريات اليوم",
+      "value": "8"
+    },
+    {
+      "title": "بطولات",
+      "value": "4"
+    }
   ]
 }
