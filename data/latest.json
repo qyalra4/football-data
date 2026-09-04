@@ -1,14 +1,38 @@
 {
   "schemaVersion": 1,
-  "manifestVersion": 4,
-  "generatedAt": "2026-09-04T14:00:00+03:00",
+  "manifestVersion": 5,
+  "generatedAt": "2026-09-04T14:55:00+03:00",
   "refreshAfterSeconds": 900,
   "resources": {
-    "home": { "file": "home.json", "version": 2 },
-    "live": { "file": "live.json", "version": 4 },
-    "schedule": { "file": "schedule.json", "version": 2 },
-    "leagues": { "file": "leagues.json", "version": 1 },
-    "standings": { "file": "standings.json", "version": 1 },
-    "teams": { "file": "teams.json", "version": 1 }
+    "home": {
+      "file": "home.json",
+      "version": 2,
+      "refreshSeconds": 900
+    },
+    "live": {
+      "file": "live.json",
+      "version": 4,
+      "refreshSeconds": 120
+    },
+    "schedule": {
+      "file": "schedule.json",
+      "version": 2,
+      "refreshSeconds": 900
+    },
+    "leagues": {
+      "file": "leagues.json",
+      "version": 1,
+      "refreshSeconds": 21600
+    },
+    "standings": {
+      "file": "standings.json",
+      "version": 1,
+      "refreshSeconds": 3600
+    },
+    "teams": {
+      "file": "teams.json",
+      "version": 1,
+      "refreshSeconds": 86400
+    }
   }
 }
