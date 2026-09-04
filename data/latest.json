@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "manifestVersion": 6,
-  "generatedAt": "2026-09-04T12:23:06.243Z",
+  "manifestVersion": 7,
+  "generatedAt": "2026-09-04T12:24:21.089Z",
   "refreshAfterSeconds": 900,
   "resources": {
     "home": {
       "file": "home.json",
-      "version": 3,
+      "version": 4,
       "refreshSeconds": 900
     },
     "live": {
