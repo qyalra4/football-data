@@ -1,0 +1,51 @@
+{
+  "title": "المباريات المباشرة",
+  "subtitle": "اختر المباراة واضغط شاهد الآن",
+  "matches": [
+    {
+      "id": "match-001",
+      "leagueId": "ucl",
+      "leagueName": "دوري أبطال أوروبا",
+      "round": "الجولة 1",
+      "date": "2026-09-04",
+      "time": "21:00",
+      "status": "live",
+      "minute": 68,
+      "home": { "id": "real", "name": "ريال مدريد", "shortName": "RMA", "score": 1, "logo": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg" },
+      "away": { "id": "barca", "name": "برشلونة", "shortName": "BAR", "score": 2, "logo": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg" },
+      "stadium": "سانتياغو برنابيو",
+      "cover": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=1200&q=80",
+      "viewers": 18500,
+      "stream": { "available": true, "sources": [ { "label": "تجريبي HLS", "type": "hls", "quality": "Auto", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" } ] }
+    },
+    {
+      "id": "match-002",
+      "leagueId": "laliga",
+      "leagueName": "الدوري الإسباني",
+      "round": "الجولة 4",
+      "date": "2026-09-04",
+      "time": "22:30",
+      "status": "live",
+      "minute": 31,
+      "home": { "id": "sevilla", "name": "إشبيلية", "score": 0 },
+      "away": { "id": "elche", "name": "إلتشي", "score": 0 },
+      "stadium": "رامون سانشيز",
+      "cover": "https://images.unsplash.com/photo-1526232761682-d26e03ac148e?auto=format&fit=crop&w=1200&q=80",
+      "viewers": 6300,
+      "stream": { "available": true, "sources": [ { "label": "تجريبي HLS", "type": "hls", "quality": "Auto", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" } ] }
+    },
+    {
+      "id": "match-003",
+      "leagueId": "epl",
+      "leagueName": "الدوري الإنجليزي",
+      "date": "2026-09-04",
+      "time": "23:00",
+      "status": "scheduled",
+      "home": { "id": "city", "name": "مانشستر سيتي" },
+      "away": { "id": "liverpool", "name": "ليفربول" },
+      "stadium": "الاتحاد",
+      "cover": "https://images.unsplash.com/photo-1553778263-73a83bab9b0c?auto=format&fit=crop&w=1200&q=80",
+      "stream": { "available": false }
+    }
+  ]
+}

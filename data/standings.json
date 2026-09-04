@@ -1,0 +1,7 @@
+{
+  "leagueId": "ucl",
+  "rows": [
+    { "position":1, "teamId":"real", "name":"ريال مدريد", "played":5, "won":4, "draw":1, "lost":0, "goalsFor":11, "goalsAgainst":4, "points":13 },
+    { "position":2, "teamId":"city", "name":"مانشستر سيتي", "played":5, "won":4, "draw":0, "lost":1, "goalsFor":10, "goalsAgainst":5, "points":12 }
+  ]
+}

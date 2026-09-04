@@ -1,0 +1,19 @@
+{
+  "days": [
+    {
+      "date": "2026-09-04",
+      "label": "اليوم",
+      "matches": [
+        { "id":"match-001", "leagueId":"ucl", "leagueName":"دوري أبطال أوروبا", "round":"الجولة 1", "date":"2026-09-04", "time":"21:00", "status":"live", "minute":68, "home":{"id":"real","name":"ريال مدريد","score":1}, "away":{"id":"barca","name":"برشلونة","score":2}, "stadium":"سانتياغو برنابيو" },
+        { "id":"match-003", "leagueId":"epl", "leagueName":"الدوري الإنجليزي", "date":"2026-09-04", "time":"23:00", "status":"scheduled", "home":{"id":"city","name":"مانشستر سيتي"}, "away":{"id":"liverpool","name":"ليفربول"}, "stadium":"الاتحاد" }
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "label": "غداً",
+      "matches": [
+        { "id":"match-004", "leagueId":"bundesliga", "leagueName":"الدوري الألماني", "date":"2026-09-05", "time":"19:30", "status":"scheduled", "home":{"id":"bayern","name":"بايرن ميونخ"}, "away":{"id":"dortmund","name":"دورتموند"}, "stadium":"أليانز أرينا" }
+      ]
+    }
+  ]
+}

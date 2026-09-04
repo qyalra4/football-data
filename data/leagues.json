@@ -1,0 +1,8 @@
+{
+  "leagues": [
+    { "id":"ucl", "name":"دوري أبطال أوروبا", "shortName":"UCL", "season":"2026/27", "region":"أوروبا", "teamsCount":36, "matchesCount":189, "cover":"https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=1200&q=80" },
+    { "id":"laliga", "name":"الدوري الإسباني", "shortName":"LaLiga", "season":"2026/27", "region":"إسبانيا", "teamsCount":20, "matchesCount":380, "cover":"https://images.unsplash.com/photo-1522778119026-d647f0596c20?auto=format&fit=crop&w=1200&q=80" },
+    { "id":"epl", "name":"الدوري الإنجليزي الممتاز", "shortName":"EPL", "season":"2026/27", "region":"إنجلترا", "teamsCount":20, "matchesCount":380, "cover":"https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=1200&q=80" },
+    { "id":"bundesliga", "name":"الدوري الألماني", "shortName":"BUN", "season":"2026/27", "region":"ألمانيا", "teamsCount":18, "matchesCount":306, "cover":"https://images.unsplash.com/photo-1486286701208-1d58e9338013?auto=format&fit=crop&w=1200&q=80" }
+  ]
+}
